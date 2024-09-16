@@ -181,6 +181,11 @@ a {
     display: none;
 }
 
+.expdesc{
+    font-size: large;
+    color: gray;
+}
+
 @keyframes CSSscrollReveal {
     from {
         opacity: 0;
